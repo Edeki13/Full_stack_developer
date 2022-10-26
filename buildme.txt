@@ -1,0 +1,3 @@
+A full stack developer is kind of software developer that can build front end and back end of web applications. Apart from building both the back end and front end of web applications, a full stack developer also manipulates data, text software as well as fix bugs to improve user experience.
+Some of the programming languages a full stack developer should know includes; css, html, javaScript, Java Spring, Python Django, React.js, PHP, Node.js amd many more.
+some of the tools needed by this kind of developer are; computer, Vscode, Google,etc.  
